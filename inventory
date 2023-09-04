@@ -24,3 +24,6 @@ shipping.krishnadevops.online
 
 [rabbitmq]
 rabbitmq.krishnadevops.online
+
+[payment]
+payment.krishnadevops.online
