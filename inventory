@@ -21,3 +21,6 @@ mysql.krishnadevops.online
 
 [shipping]
 shipping.krishnadevops.online
+
+[rabbitmq]
+rabbitmq.krishnadevops.online
