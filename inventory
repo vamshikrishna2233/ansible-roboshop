@@ -6,3 +6,6 @@ catalogue.krishnadevops.online
 
 [web]
 web.krishnadevops.online
+
+[redis]
+redis.krishnadevops.online
